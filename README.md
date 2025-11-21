@@ -1,6 +1,4 @@
-# Tufts Letterhead Templates
-
-Typst templates for writing a letter on Tufts Letterhead.
+# Yehor grad school LOR
 
 ## Usage
 
