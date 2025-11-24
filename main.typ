@@ -12,7 +12,7 @@
   // date: datetime.today(),
   salutation: [To the graduate admissions committee of #sys.inputs.at("program", default:"PLACEHOLDER"),],
   // vmargins: 0.3in,
-  // signature: v(0.5in), // image(height: 0.5in, "assets/signature.png"),
+  signature: image(height: 0.5in, "assets/ksb-signature.svg"),
   // style: tmc-style // gsbs-style
 )
 
