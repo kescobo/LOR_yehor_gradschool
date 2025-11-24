@@ -10,18 +10,17 @@
   // title: "Assistant Professor of Medicine",
  // affiliation: "GI Division | Tufts Medical Center",
   // date: datetime.today(),
-  salutation: [To the graduate admissions committee of #sys.inputs.at("program", default:"PLACEHOLDER")],
+  salutation: [To the graduate admissions committee of #sys.inputs.at("program", default:"PLACEHOLDER"),],
   // vmargins: 0.3in,
   // signature: v(0.5in), // image(height: 0.5in, "assets/signature.png"),
   // style: tmc-style // gsbs-style
 )
 
-// Content goes here, lorem is a placeholder and can be deleted
 
 Please accept my unqualified endorsement of admitting Yehor Mishchyriak
 to your PhD program.
 While I have only had the pleasure of working with Yehor for a short time,
-it was plain to see that he has a rare confluence
+it was plain to see that he has that rare confluence
 of intelligence, thoughtfulness, and diligence
 that will make him successful in whatever he chooses to pursue.
 On a personal level, he is a delight to work worth -
