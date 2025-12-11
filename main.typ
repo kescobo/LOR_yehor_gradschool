@@ -10,7 +10,7 @@
   // title: "Assistant Professor of Medicine",
  // affiliation: "GI Division | Tufts Medical Center",
   // date: datetime.today(),
-  salutation: [To the graduate admissions committee of #sys.inputs.at("program", default:"PLACEHOLDER"),],
+  salutation: [To the graduate admissions for Engineering,],
   // vmargins: 0.3in,
   signature: image(height: 0.5in, "assets/ksb-signature.svg"),
   // style: tmc-style // gsbs-style
@@ -25,10 +25,9 @@ of intelligence, thoughtfulness, and diligence
 that will make him successful in whatever he chooses to pursue.
 On a personal level, he is a delight to work worth -
 friendly, unassuming, engaged, and outgoing.
-I believe he will thrive in a suitably rigorous PhD program,
-and it should be noted that this is a statement against my own interest
-as I know he is also applying to the CS here at Tufts
-and I would love for him to come here!
+I believe he will thrive in a suitably rigorous PhD program --
+my only regret is that he is applying over in Medford
+and I am unlikely to be able to entice him to my lab across the river!
 
 I am an Assistant Professor of Medicine at Tufts Medical Center,
 and I study the human gut microbiome using a combination
@@ -111,6 +110,3 @@ by the mentors that know him best.
 I offer an unequivocal and heartfelt endorsement of Yehor Mishchyriak,
 and urge you not only to accept him into your program,
 but to actively recruit him.
-You can be sure I will be telling my local colleagues
-to do the same!
-
